@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, I'm Aditya Naroliya!</h1>
 <h3 align="center">A passionate web developer from India.</h3>
 
-- 🌱 I’m currently learning **Flask.**
+- 🌱 I’m currently learning **Flutter.**
 
 - 💬 Ask me about **Web Development and AI & Robotics.**
 
