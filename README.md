@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **adinaroliya625@gmail.com**
 
-- ⚡ Fun fact **i'm a coding nerd and also a Anime lover.**
+- ⚡ Fun fact **i'm a coding nerd and also an Anime lover.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
