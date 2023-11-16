@@ -1,13 +1,13 @@
 <h1 align="center">Hola 👋, I'm Aditya Naroliya!</h1>
 <h3 align="center">A passionate web developer from India.</h3>
 
-- 🌱 I’m currently learning **Flutter.**
+- 🌱 I’m currently learning **Flutter.** :octacat:
 
-- 💬 Ask me about **Web Development and AI & Robotics.**
+- 💬 Ask me about **Web Development and AI & Robotics.** ✨:
 
-- 📫 How to reach me **adinaroliya625@gmail.com**
+- 📫 How to reach me **adinaroliya625@gmail.com** :rocket:
 
-- ⚡ Fun fact **i'm a coding nerd and also an Anime lover.**
+- ⚡ Fun fact **i'm a coding nerd and also an Anime lover.** :metal:
 
 - 📋 My Portfolio https://my-portfolio-09.web.app/ :+1:
 
