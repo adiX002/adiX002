@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter.** :octocat:
 
-- 💬 Ask me about **Web Development and AI & Robotics.** ✨:
+- 💬 Ask me about **Web Development and AI & Robotics.** :sparkles:
 
 - 📫 How to reach me **adinaroliya625@gmail.com** :rocket:
 
