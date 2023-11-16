@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **i'm a coding nerd and also an Anime lover.**
 
-- 📋 My Portfolio https://my-portfolio-09.web.app/
+- 📋 My Portfolio https://my-portfolio-09.web.app/ :+1:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
