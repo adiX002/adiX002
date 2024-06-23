@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **i'm a coding nerd and also an Anime lover.** :metal:
 
-- 📋 My Portfolio https://my-portfolio-09.web.app/ :+1:
+- 📋 My Portfolio (https://adix002.github.io/Portfolio/) :+1:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
